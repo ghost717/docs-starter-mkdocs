@@ -1,0 +1,6 @@
+.env
+*.bak
+*.ini
+
+env
+venv
